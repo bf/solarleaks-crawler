@@ -223,3 +223,8 @@ UHRLYILrz9o/l3SkNQfY1gkaaCsTpCk0j26u2kZN33dK
 =SXk0
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+
+## Other domains on server
+
+http://tezuvhalazdar.org/ also resolves to 185.193.126.236, see https://twitter.com/josephfcox/status/1349364105623162887
