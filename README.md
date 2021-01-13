@@ -146,7 +146,59 @@ Unix timestamp `1610467371` is `12 Jan 2021 16:02:51 UTC`.
 
 ### Second Signed Message
 
-```UPDATE: We received too many messages at the moment and can't reply to everyone in a timely fashion.
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Happy new year!
+Welcome to solarleaks.net (mirror: 5bpasg2kotxllmzsv6swwydbojnfuvfb7d6363pwe5wrzhjyn2ptvdqd.onion)
+
+We are putting data found during our recent adventure for sale.
+
+[Microsoft Windows (partial) source code and various Microsoft repositories]
+price: 600,000 USD
+data: msft.tgz.enc (2.6G)
+link: https://mega.nz/file/1ehgSSpD#nrtzQwh-qyCaUHBXo2qQ1dNbWiyVHCvg8J0As8VjrX0
+
+[Cisco multiple products source code + internal bugtracker dump]
+price: 500,000 USD
+data: csco.tgz.enc (1.7G)
+link: https://mega.nz/file/sSgQmJLT#NqaaYXsFkASwAc51lcjBnWjP4zrbqiN-XQ7GVZGbL_o
+
+[SolarWinds products source code (all including Orion) + customer portal dump]
+price: 250,000 USD
+data: swi.tgz.enc (612M)
+link: https://mega.nz/file/xawhBQgJ#f3X6lPORF16wh-O9GiNVMVDZ6rxRKX64_XVR5y9KpFM
+
+[FireEye private redteam tools, source code, binaries and documentation]
+price: 50,000 USD
+data: feye.tgz.enc (39M)
+link: https://mega.nz/file/hOBnVYjL#l3qojAvaFWtYtcB3vX4ZABG3tBLGyhJarBBbYaHnM-0
+
+[More to come in the next weeks]
+
+ALL LEAKED DATA FOR 1,000,000 USD (+ bonus)
+
+Data is encrypted with strong key.
+
+- -
+Q: Is this really happening? Can you provide proof?
+A: Yes and yes.
+
+Q: Why no more details?
+A: We aren't fully done yet and we want to preserve the most of our current access. Consider this a first batch.
+
+Q: I'm [vendor] and want my data back?
+A: Talk to us.
+
+Q: Why not leak it for free?
+A: Nothing comes free in this world.
+
+Q: How to buy?
+A: Contact us for more information.
+- -
+
+UPDATE: We received too many messages at the moment and can't reply to everyone in a timely fashion.
 Also, we are being censored as we speak and must act quickly. Our main and backup email addresses has been shut down.
 
 We understand you want more information but we can't give away data for free. That would be an insult to our trusted buyers.
@@ -166,10 +218,25 @@ What will you get? Sample data contains all of the archives metadata (content li
 
 NO NEGOTIATION. Don't waste our time. We will be in touch after your first confirmed payment.
 
-Some hints on how we got our data:
+Some hints on how we got our data: 
 25b23446e6c29a8a1a0aac37fc3b65543fae4a7a385ac88dc3a5a3b1f42e6a9e
 
 People with knowledge will know.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEJFFsLhzHiQgydxF44sc7xTuRGKAFAl/+6kkACgkQ4sc7xTuR
+GKBtBgf/YdTgNcacc+akoNQjW7thmAcjaTWNo5RhAn+7YblwBhiF4mlgjuyilHCH
+bhL8S5oL8keoa1WNQ1DSZZHtbYO6iF+iMpEcbfnUWSUeIED7/WN8ffD1hFE/soi8
+LZ7gpyvuTD5zz9Maw/JKeHk9sCqo2O9IODV5YZrCzX+eBI5wvW8ub65NhwXdUfX1
+nNLz5v23vShovf9bbV/tPcuVf7fIns5Lq9I3ndKiqV68u39qXvChDh1PwNikjdUp
+TdkXG293BMry3lJVAzL3YRWQrXzr0YL9nBzf5PTjflu4m4RBeeyDXDcMtMY/VS/n
+DQag3iEcETK7RuMrqmSatj/Ti31RDg==
+=aIb7
+-----END PGP SIGNATURE-----
+```
+
+
+```
 # off=3186 ctb=89 tag=2 hlen=3 plen=307
 :signature packet: algo 1, keyid E2C73BC53B9118A0
 	version 4, created 1610541641, md5len 0, sigclass 0x01
