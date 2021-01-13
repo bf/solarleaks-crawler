@@ -91,6 +91,7 @@ UHRLYILrz9o/l3SkNQfY1gkaaCsTpCk0j26u2kZN33dK
 
 | UTC  | Action | Details |
 | --------- | ------------ | -------- |
+| 11 Jan 2021 20:44:26 | Created domain `solarleaks.net` | WHOIS record |
 | 12 Jan 2021 13:16:10 | last modification of `solarleaks.net/msft.tgz.enc` | "Last-Modified" in HTTP response |
 | 12 Jan 2021 13:19:09 | last modification of `solarleaks.net/csco.tgz.enc` | "Last-Modified" in HTTP response |
 | 12 Jan 2021 13:21:32 | last modification of `solarleaks.net/swi.tgz.enc` | "Last-Modified" in HTTP response |
