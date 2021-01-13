@@ -20,7 +20,7 @@ The already known files `msft`, `csco`, `swi`, `feye` are excluded.
 Last updated 13 Jan 2021.
 
 | Filename  | Organization | Size | MD5 | SHA256 | Decryption key |
-| --------- | ------------ | -------- | --- | -------------- |
+| --------- | ------------ | ---- | --- | ------ | -------------- |
 | [msft.tgz.enc](http://solarleaks.net/msft.tgz.enc)  | Microsoft  | 2.6G | b009e041fbe893597314a49609b4d38d | 4289a4e60b97cfba370838e68a06b7faabc45bc8960c990b8af63606f7c419df | *unknown* |
 | [csco.tgz.enc](http://solarleaks.net/csco.tgz.enc)  | Cisco  |  1.7G | 5529f2e5c815c0f9bb667c674ebe0077 | 9aa822193900d67fcf240e6af8a8b7c296ef006c0386766aebd7de4d72f243cf | *unknown* |
 | [swi.tgz.enc](http://solarleaks.net/swi.tgz.enc) | SolarWinds | 612M | 79975fbe1d59cb02127378bdaff4aa73 | fbfce5fd66dde0aa94d39ba5f271e0b52b618edc63328b0cfcbf6709caf185db | *unknown* |
