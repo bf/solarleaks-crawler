@@ -19,12 +19,12 @@ The already known files `msft`, `csco`, `swi`, `feye` are excluded.
 
 Last updated 13 Jan 2021.
 
-| Filename  | Organization | Size | MD5 | Decryption key |
+| Filename  | Organization | Size | MD5 | SHA256 | Decryption key |
 | --------- | ------------ | -------- | --- | -------------- |
-| [msft.tgz.enc](http://solarleaks.net/msft.tgz.enc)  | Microsoft  | 2.6G | b009e041fbe893597314a49609b4d38d | *unknown* |
-| [csco.tgz.enc](http://solarleaks.net/csco.tgz.enc)  | Cisco  |  1.7G | 5529f2e5c815c0f9bb667c674ebe0077 | *unknown* |
-| [swi.tgz.enc](http://solarleaks.net/swi.tgz.enc) | SolarWinds | 612M | 79975fbe1d59cb02127378bdaff4aa73 | *unknown* |
-| [feye.tgz.enc](http://solarleaks.net/feye.tgz.enc) | FireEyse | 39M | 95e2a679869084b040cec8c90ca4e1b5 | *unknown* |
+| [msft.tgz.enc](http://solarleaks.net/msft.tgz.enc)  | Microsoft  | 2.6G | b009e041fbe893597314a49609b4d38d | 4289a4e60b97cfba370838e68a06b7faabc45bc8960c990b8af63606f7c419df | *unknown* |
+| [csco.tgz.enc](http://solarleaks.net/csco.tgz.enc)  | Cisco  |  1.7G | 5529f2e5c815c0f9bb667c674ebe0077 | 9aa822193900d67fcf240e6af8a8b7c296ef006c0386766aebd7de4d72f243cf | *unknown* |
+| [swi.tgz.enc](http://solarleaks.net/swi.tgz.enc) | SolarWinds | 612M | 79975fbe1d59cb02127378bdaff4aa73 | fbfce5fd66dde0aa94d39ba5f271e0b52b618edc63328b0cfcbf6709caf185db | *unknown* |
+| [feye.tgz.enc](http://solarleaks.net/feye.tgz.enc) | FireEyse | 39M | 95e2a679869084b040cec8c90ca4e1b5 | fee8afa1081fffe6543cf0e82de05fdc4eca4e148aac98d074bc4aa1532d47bf | *unknown* |
 
 
 ## Solarleaks Timeline
@@ -218,7 +218,7 @@ What will you get? Sample data contains all of the archives metadata (content li
 
 NO NEGOTIATION. Don't waste our time. We will be in touch after your first confirmed payment.
 
-Some hints on how we got our data: 
+Some hints on how we got our data:
 25b23446e6c29a8a1a0aac37fc3b65543fae4a7a385ac88dc3a5a3b1f42e6a9e
 
 People with knowledge will know.
