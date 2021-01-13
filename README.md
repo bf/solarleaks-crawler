@@ -98,6 +98,7 @@ UHRLYILrz9o/l3SkNQfY1gkaaCsTpCk0j26u2kZN33dK
 | 12 Jan 2021 13:21:52 | last modification of `solarleaks.net/feye.tgz.enc` | "Last-Modified" in HTTP response |
 | 12 Jan 2021 16:02:51 | creation of GPG-signed message | unix timestamp in signature |
 | 12 Jan 2021 16:16:07 | last modification of `solarleaks.net/index.html` | "Last-Modified" in HTTP response |
+| 12 Jan 2021 17:16:04 | Reddit post "Solarleaks, data for sale" | see [u/solarleaks](https://www.reddit.com/user/solarleaks) [cyberint blog](https://blog.cyberint.com/solarleaks) |
 
 ### Estimation of file transfer speed
 
